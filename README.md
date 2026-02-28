@@ -1,4 +1,4 @@
-AI-ML-WORKSHOP - Comprehensive AI/ML Learning Repository
+# AI-ML-WORKSHOP - Comprehensive AI/ML Learning Repository
 
 ## Overview
 
